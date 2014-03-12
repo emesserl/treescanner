@@ -1,0 +1,1 @@
+This project connects an arLCD Arduino with Ethernet shield to a Hokuyo UTM-30LX-EW scanner.  Scans are saved to the microSD card on the ethernet shield.
